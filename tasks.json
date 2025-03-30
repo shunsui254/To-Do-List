@@ -1,0 +1,30 @@
+[
+    {
+        "task": "stuff",
+        "done": true
+    },
+    {
+        "task": "bruh",
+        "done": true
+    },
+    {
+        "task": "blue box",
+        "done": false
+    },
+    {
+        "task": "Money Trees",
+        "done": false
+    },
+    {
+        "task": "I remember you are new",
+        "done": false
+    },
+    {
+        "task": "Ballin Bruv",
+        "done": false
+    },
+    {
+        "task": "Fallin'",
+        "done": false
+    }
+]
